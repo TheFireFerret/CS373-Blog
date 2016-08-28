@@ -5,7 +5,7 @@ locale: en_US
 description: Software Engineering Weekly Blog
 logo: avatar.jpg
 search: true
-url: http://samiglas.co/CS373-blog/
+url: http://samiglas.co/CS373-blog
 
 # Jekyll configuration
 
